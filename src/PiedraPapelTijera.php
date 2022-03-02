@@ -1,8 +1,8 @@
 <?php
 
-namespace App\PiedraPapelTijera;
+namespace App;
 
-class PiedraPapelTijera{
+class PiedraPapelTijera {
 
     public function playGame($player1, $player2) {
         if ($player1 === 'piedra' && $player2 === 'tijeras') {
