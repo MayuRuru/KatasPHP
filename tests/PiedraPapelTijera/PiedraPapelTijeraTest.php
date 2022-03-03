@@ -2,7 +2,7 @@
 
 namespace Tests;
 
-use App\PiedraPapelTijera\PiedraPapelTijera;
+use src\PiedraPapelTijera\PiedraPapelTijera;
 use PHPUnit\Framework\TestCase;
 
 
