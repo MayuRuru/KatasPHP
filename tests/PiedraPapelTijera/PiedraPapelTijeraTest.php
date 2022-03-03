@@ -2,8 +2,10 @@
 
 namespace Tests;
 
-use App\PiedraPapelTijera;
+use App\PiedraPapelTijera\PiedraPapelTijera;
 use PHPUnit\Framework\TestCase;
+namespace Tests;
+
 
 
 class PiedraPapelTijeraTest extends TestCase {
